@@ -1,0 +1,60 @@
+<134>Feb 22 00:05:38 SYSSVR1 systemd[1]: Started OpenBSD Secure Shell server.
+<133>Feb 22 00:05:39 SYSSVR1 sshd[2847]: Server listening on 0.0.0.0 port 22.
+<134>Feb 22 00:05:40 SYSSVR2 kernel: [    0.000000] Linux version 5.4.0-42-generic (buildd@tautog) (gcc version 9.3.0)
+<134>Feb 22 00:06:15 SYSSVR2 kernel: Out of memory: Kill process 1234 (java) score 156 or sacrifice child
+<131>Feb 22 00:07:30 SYSSVR1 httpd[8234]: Started Apache httpd server
+<133>Feb 22 00:07:31 SYSSVR1 httpd[8234]: POST /api/users HTTP/1.1 200 OK
+<132>Feb 22 00:08:45 SYSSVR3 mysql[456]: Network interface up
+<134>Feb 22 00:08:46 SYSSVR3 mysql[456]: Ready for connections
+<130>Feb 22 00:09:22 SYSSVR1 systemd[1]: Started Session 15 of user root.
+<134>Feb 22 00:10:00 SYSSVR2 kernel: EXT4-fs (sda1): mounted filesystem with ordered data mode
+<133>Feb 22 00:11:15 SYSSVR3 mysql[456]: [Warning] Using password on the command line can be insecure
+<135>Feb 22 00:12:30 SYSSVR1 sshd[3456]: Invalid user attempt from 192.168.1.100
+<131>Feb 22 00:13:45 SYSSVR2 cron[789]: (root) CMD (run-parts --report /etc/cron.hourly)
+<134>Feb 22 00:14:22 SYSSVR1 systemd[1]: Started Cleanup of Temporary Directories.
+<132>Feb 22 00:15:38 SYSSVR3 httpd[9087]: GET /index.html HTTP/1.1 200 4521 bytes
+<130>Feb 22 00:16:50 SYSSVR1 daemon[1001]: Task completed successfully
+<133>Feb 22 00:17:11 SYSSVR2 kernel: Memory pressure drop detected
+<134>Feb 22 00:18:25 SYSSVR3 mysqld[567]: [ERROR] InnoDB: Database corrupt, attempting recovery
+<131>Feb 22 00:19:40 SYSSVR1 sshd[4567]: Failed password for invalid user admin from 10.0.0.5 port 54321
+<135>Feb 22 00:20:55 SYSSVR2 kernel: Out of memory: Kill process 2345 (python) score 42
+<134>Feb 22 00:21:30 SYSSVR3 httpd[9876]: Graceful restart initiated
+<132>Feb 22 00:22:45 SYSSVR1 systemd[1]: Started Regular background program processing daemon.
+<133>Feb 22 00:23:12 SYSSVR2 cron[890]: (oracle) CMD (backup_database.sh)
+<130>Feb 22 00:24:38 SYSSVR3 mysql[678]: Slave I/O thread started
+<134>Feb 22 00:25:50 SYSSVR1 kernel: Warning: disk usage at 85%
+<131>Feb 22 00:26:15 SYSSVR2 systemd[1]: Started Session 16 of user john.
+<133>Feb 22 00:27:40 SYSSVR3 sshd[5678]: Accepted publickey for user jane from 192.168.0.50
+<135>Feb 22 00:28:55 SYSSVR1 httpd[8765]: POST /api/data HTTP/1.1 500 Internal Server Error
+<134>Feb 22 00:29:22 SYSSVR2 kernel: ACPI: Power Button [PWRB] (fixed)
+<132>Feb 22 00:30:30 SYSSVR3 mysqld[789]: Slow query detected: SELECT * FROM large_table
+<130>Feb 22 00:31:45 SYSSVR1 systemd[1]: Started Cleanup of Temporary Directories.
+<133>Feb 22 00:32:20 SYSSVR2 sshd[6789]: Connection closed by authenticating user bob
+<134>Feb 22 00:33:35 SYSSVR3 httpd[7654]: Cache miss for /static/css/main.css
+<131>Feb 22 00:34:50 SYSSVR1 kernel: USB device registered: /dev/sda
+<135>Feb 22 00:35:15 SYSSVR2 cron[1001]: (root) CMD (/usr/local/bin/cleanup.sh)
+<133>Feb 22 00:36:40 SYSSVR3 systemd[1]: Starting Session cleanup...
+<134>Feb 22 00:37:22 SYSSVR1 mysqld[890]: Replication lag detected: 42 seconds
+<132>Feb 22 00:38:45 SYSSVR2 httpd[9123]: GET /admin/dashboard HTTP/1.1 403 Forbidden
+<130>Feb 22 00:39:30 SYSSVR3 sshd[7890]: Authentication failure for user admin
+<133>Feb 22 00:40:55 SYSSVR1 kernel: Load average: 8.5, 7.2, 6.1
+<134>Feb 22 00:41:20 SYSSVR2 systemd[1]: Started PostgreSQL cluster 12 main.
+<131>Feb 22 00:42:35 SYSSVR3 cron[2002]: (root) CMD (logrotate -f /etc/logrotate.conf)
+<135>Feb 22 00:43:50 SYSSVR1 httpd[8901]: Connection timeout from 172.16.0.100
+<133>Feb 22 00:44:15 SYSSVR2 mysql[1001]: Lock wait timeout exceeded
+<134>Feb 22 00:45:40 SYSSVR3 kernel: Journal commit interval exceeded
+<132>Feb 22 00:46:22 SYSSVR1 sshd[8901]: Failed to allocate memory for session
+<130>Feb 22 00:47:38 SYSSVR2 systemd[1]: Started cleanup of user session.
+<133>Feb 22 00:48:55 SYSSVR3 httpd[7123]: POST /api/upload HTTP/1.1 413 Payload Too Large
+<134>Feb 22 00:49:30 SYSSVR1 kernel: NMI watchdog: BUG: soft lockup - CPU#0 stuck
+<131>Feb 22 00:50:45 SYSSVR2 cron[3003]: (oracle) RELOAD (crontabs/oracle)
+<135>Feb 22 00:51:20 SYSSVR3 mysqld[2000]: Checkpoint request received
+<133>Feb 22 00:52:35 SYSSVR1 systemd[1]: Starting Restart crashed applications...
+<134>Feb 22 00:53:50 SYSSVR2 sshd[9012]: Received signal TERM, shutting down
+<132>Feb 22 00:54:15 SYSSVR3 httpd[8234]: Restarting web server
+<130>Feb 22 00:55:40 SYSSVR1 kernel: CPU0: Intel(R) Core(TM) i7-8700K
+Feb 22 00:56:55 SYSSVR2 httpd: POST /search HTTP/1.1 200 OK
+Feb 22 00:57:30 SYSSVR3 mysql: Connection from 10.0.1.50 established
+Feb 22 00:58:45 SYSSVR1 kernel: Memory available: 16384 MB
+Feb 22 00:59:20 SYSSVR2 systemd: Started system update service
+Feb 22 01:00:35 SYSSVR3 sshd: User jane logged in successfully
