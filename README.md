@@ -8,6 +8,7 @@ A lightweight, centralized log management server that ingests, parses, and index
 **Project Title:** Concurrent Syslog Analytics Server ("Mini-Splunk")  
 **Version:** 1.0  
 **Python Version:** 3.7+
+**Team Members:** CAPACIO, JOHN DIONEL & GONZAGA, EROS ANEELOUV
 
 ### Purpose
 
